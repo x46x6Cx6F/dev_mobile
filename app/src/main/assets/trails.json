@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Calanques de Marseille à Cassis",
+    "description": "Une randonnée côtière spectaculaire entre Marseille et Cassis, offrant des vues imprenables sur les calanques.",
+    "duration": 1,
+    "distance": "20 km",
+    "difficulty": "Modérée"
+  },
+  {
+    "id": 2,
+    "name": "Mont Puget",
+    "description": "Ascension du point culminant des Calanques, offrant une vue panoramique sur la mer et les falaises.",
+    "duration": 1,
+    "distance": "12 km",
+    "difficulty": "Difficile"
+  },
+  {
+    "id": 3,
+    "name": "Cap Canaille",
+    "description": "Randonnée le long des falaises de Cassis, avec des vues magnifiques sur la mer Méditerranée.",
+    "duration": 1,
+    "distance": "8 km",
+    "difficulty": "Modérée"
+  },
+  {
+    "id": 4,
+    "name": "Sainte-Baume",
+    "description": "Randonnée jusqu'à la grotte de Sainte-Baume, un lieu de pèlerinage avec une forêt dense et des vues sur la Sainte-Baume.",
+    "duration": 1,
+    "distance": "15 km",
+    "difficulty": "Moyenne"
+  },
+  {
+    "id": 5,
+    "name": "Montagne Sainte-Victoire",
+    "description": "Randonnée emblématique près d'Aix-en-Provence, offrant des vues panoramiques sur la Provence.",
+    "duration": 1,
+    "distance": "13 km",
+    "difficulty": "Moyenne"
+  },
+  {
+    "id": 6,
+    "name": "Cirque de Morgiou",
+    "description": "Randonnée dans le parc national des Calanques, avec des vues sur le cirque de Morgiou et la mer.",
+    "duration": 1,
+    "distance": "10 km",
+    "difficulty": "Moyenne"
+  },
+  {
+    "id": 7,
+    "name": "Parc National des Calanques",
+    "description": "Exploration des calanques de Port-Miou, En-Vau et Port-Pin, avec des paysages côtiers époustouflants.",
+    "duration": 1,
+    "distance": "18 km",
+    "difficulty": "Modérée"
+  },
+  {
+    "id": 8,
+    "name": "Massif des Alpilles",
+    "description": "Randonnée dans les Alpilles, avec des vues sur les paysages provençaux et les villages perchés.",
+    "duration": 1,
+    "distance": "12 km",
+    "difficulty": "Moyenne"
+  },
+  {
+    "id": 9,
+    "name": "Gorges du Verdon",
+    "description": "Randonnée le long des gorges du Verdon, offrant des vues spectaculaires sur les falaises et l'eau turquoise.",
+    "duration": 1,
+    "distance": "14 km",
+    "difficulty": "Moyenne"
+  },
+  {
+    "id": 10,
+    "name": "Mont Faron",
+    "description": "Randonnée jusqu'au sommet du Mont Faron, offrant une vue panoramique sur Toulon et la Méditerranée.",
+    "duration": 1,
+    "distance": "8 km",
+    "difficulty": "Facile"
+  }
+]
